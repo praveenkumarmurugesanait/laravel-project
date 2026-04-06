@@ -8,3 +8,4 @@ class UserDetailController extends Controller
 {
     //
 }
+

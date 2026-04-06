@@ -7,7 +7,7 @@ use Illuminate\Support\Facades\Validator;
 
 class PostController extends Controller
 {
-    public function create()
+    public function create() test
     {
         $posts = Post::paginate(5);
         return view('form', compact('posts'));
