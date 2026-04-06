@@ -9,3 +9,4 @@ class UserDetailController extends Controller
     //
 }
 
+testyi
